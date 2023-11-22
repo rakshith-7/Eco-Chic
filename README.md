@@ -16,4 +16,4 @@ Developed a Minimum Viable Product (MVP) to gauge user reactions to the proposed
 
 Leveraged FIGMA, a popular design tool, to create a compelling prototype that showcased the implemented features and defined the user journey.
 
-Presented the product to industry experts at a hackathon, garnering valuable feedback and securing an impressive 4th place out of 120 participating teams.
+Presented the product to industry experts at a hackathon, garnering valuable feedback and securing an impressive top 10 out of 130 participating teams.
